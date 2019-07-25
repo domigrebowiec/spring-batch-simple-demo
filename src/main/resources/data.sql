@@ -1,0 +1,10 @@
+INSERT INTO people (person_id, first_name, last_name) VALUES (1, 'Jola', 'Kowalska');
+INSERT INTO people (person_id, first_name, last_name) VALUES (2, 'Zbigniew', 'Boniek');
+INSERT INTO people (person_id, first_name, last_name) VALUES (3, 'Marian', 'Kowalski');
+INSERT INTO people (person_id, first_name, last_name) VALUES (4, 'Agnieszka', 'Smigiel');
+INSERT INTO people (person_id, first_name, last_name) VALUES (5, 'Aleksandra', 'Kisiel');
+INSERT INTO people (person_id, first_name, last_name) VALUES (6, 'Krzysztof', 'Baraka');
+INSERT INTO people (person_id, first_name, last_name) VALUES (7, 'Ewelina', 'Zupa');
+INSERT INTO people (person_id, first_name, last_name) VALUES (8, 'Paulina', 'Kisielska');
+INSERT INTO people (person_id, first_name, last_name) VALUES (9, 'Szymon', 'Adamski');
+INSERT INTO people (person_id, first_name, last_name) VALUES (10, 'Piotr', 'Agrafka');
